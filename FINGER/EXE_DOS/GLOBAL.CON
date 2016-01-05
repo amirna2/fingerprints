@@ -1,0 +1,10 @@
+NETWORK MODEL: KOHONEN
+OUTPUT MODEL: CLASSIFY
+N INPUTS: 80
+N OUTPUTS: 198
+
+restore weights : base3.wts
+kohonen init    : noinit
+output file     : global.out
+test network    : base3.in
+quit:

@@ -1,0 +1,11 @@
+NETWORK MODEL: KOHONEN
+KOHONEN INIT : RANDOM
+OUTPUT MODEL: CLASSIFY
+N INPUTS: 80
+N OUTPUTS: 266
+QUIT ERROR: 0.1
+TRAIN: finger.in
+learn:
+save weights:finger.wts
+quit:
+
